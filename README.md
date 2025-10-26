@@ -14,12 +14,11 @@ I’m a **fresh graduate** seeking opportunities in the fields of **analytics, b
 * 📊 Build and design interactive dashboards using **Excel**.
 
 ## My Projects
-   📈 This is my **professional portfolio** showcasing my projects and skills.[MyPortfolio](https://github.com/rjachelle-2002/MyPortfolio.git)
+   📈 This is my ``professional portfolio`` showcasing my projects and skills: <br>[MyPortfolio](https://github.com/rjachelle-2002/MyPortfolio.git)
 
-🛠️ Tools
-* Excel
+``🛠️ Tools: Excel``
 
-📝If you’d like to explore my **creative side**, feel free to check out my other portfolio--> 
+📝If you’d like to explore my ``creative side``, feel free to check out my other portfolio: 
 
 
 
