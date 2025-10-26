@@ -15,7 +15,7 @@ I’m a **fresh graduate** seeking opportunities in the fields of **analytics, b
 * 🛠️ Write basic **SQL queries** for data handling and insights
 
 ## My Projects
-   📈 This is my **professional portfolio** showcasing my projects, skills, and experiences --> 
+   📈 This is my **professional portfolio** showcasing my projects, skills, and experiences --> [MyPortfolio](https://github.com/rjachelle-2002/MyPortfolio.git)
 
 🛠️ Tools
 
