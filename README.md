@@ -15,14 +15,12 @@ I’m a **fresh graduate** seeking opportunities in the fields of **analytics, b
 * 🛠️ Write basic **SQL queries** for data handling and insights
 
 ## My Projects
-   📈 This is my **professional portfolio** showcasing my projects, skills, and experiences -->
+   📈 This is my **professional portfolio** showcasing my projects, skills, and experiences --> 
 
 🛠️ Tools
 
-* 
-* 
-* 
-
+* Excel
+* SQL
 
 📝If you’d like to explore my **creative side**, feel free to check out my other portfolio-->
 
