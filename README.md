@@ -18,7 +18,8 @@ I’m a **fresh graduate** seeking opportunities in the fields of **analytics, b
 
 ``🛠️ Tools: Excel``
 
-📝If you’d like to explore my ``creative side``, feel free to check out my other portfolio: 
+📝If you’d like to explore my ``creative side``, feel free to check out my other portfolio: <br> [MyCreativePortfolio](https://romajachelle.wixsite.com/myportfolio)
+
 
 
 
