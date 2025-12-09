@@ -11,12 +11,12 @@ I’m a **fresh graduate** seeking opportunities in the fields of **analytics, b
 💡 **What I Can Do**:
 * 📑 Perform data analysis, cleaning, and reporting using **Google Sheets & Excel**.
 * 🛠️ Write basic **SQL queries** for data handling and insights.
-* 📊 Build and design interactive dashboards using **Excel** & **PowerBI**.
+* 📊 Build and design interactive dashboards using **Excel** & **Power BI**.
 
 ## My Projects
    📈 This is my ``professional portfolio`` showcasing my projects and skills: <br>[MyPortfolio](https://github.com/rjachelle-2002/MyPortfolio.git)
 
-``🛠️ Tools: Excel & PowerBi``
+``🛠️ Tools: Excel & Power Bi``
 
 📝If you’d like to explore my ``creative side``, feel free to check out my other portfolio: <br>
    [MyCreativePortfolio](https://romajachelle.wixsite.com/myportfolio)
