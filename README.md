@@ -6,7 +6,7 @@
 
 Hi, I’m **Roma Jachelle Sangahin**, currently based in the **Philippines**.
 
-I’m a **fresh graduate** seeking opportunities in the fields of **analytics, business, creativity, and writing.**
+I’m an **engineering graduate** seeking opportunities in the fields of **analytics, business, creativity, and writing.**
 
 💡 **What I Can Do**:
 * 📑 Perform data analysis, cleaning, and reporting using **Google Sheets & Excel**.
